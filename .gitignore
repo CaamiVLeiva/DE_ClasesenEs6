@@ -1,0 +1,9 @@
+# Node modules
+node_modules/
+
+# Optional npm cache directory
+.npm
+
+# Operating System files
+.DS_Store
+Thumbs.db
